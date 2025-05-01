@@ -2,6 +2,10 @@
 <p align="center">
   🚀 Developer | 💡 Problem Solver | 🌐 ML Enthusiast  
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jahnavi02&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile view counter" />
+</p>
+
 
 ---
 
