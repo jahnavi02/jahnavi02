@@ -2,6 +2,7 @@
 <p align="center">
   🚀 Developer | 💡 Problem Solver | 🌐 ML Enthusiast  
 </p>
+![](https://komarev.com/ghpvc/?username=rahul-github&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
